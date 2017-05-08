@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="610ca736-56b4-455d-a371-c83c93a3f630" kpf_version="5" name="Memory Game.komodoproject">
+<file id="1a07f33b-1110-482a-a0b2-4ff07aae5976" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="style.css" url="style.css">
+</file>
+<file id="263f8008-d1e1-40c4-838f-843b818473bb" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="background.jpg" url="background.jpg">
+</file>
+<file id="264cd1bb-e9c3-434f-87e4-c4fc3e0c325e" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="cursor.png" url="cursor.png">
+</file>
+<file id="49fb2e3f-ece2-4456-ad3a-beeb4bb0dda9" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="clap.mp3" url="clap.mp3">
+</file>
+<file id="5504baab-749a-4a89-b47c-9629af8e7405" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="backgroundUnresized.jpg" url="backgroundUnresized.jpg">
+</file>
+<file id="b54dc728-6a64-4a57-b4db-5c07967dcadd" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="memorygame.html" url="memorygame.html">
+</file>
+<file id="ba6ddd95-a765-4935-911a-b308a1471b61" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="pain.mp3" url="pain.mp3">
+</file>
+<file id="e158ac88-e835-4f9a-a69d-5df68023c949" idref="610ca736-56b4-455d-a371-c83c93a3f630" name="explosion.mp3" url="explosion.mp3">
+</file>
+<preference-set idref="610ca736-56b4-455d-a371-c83c93a3f630" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
